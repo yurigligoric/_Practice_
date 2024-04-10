@@ -9,4 +9,14 @@ const result = baligtade(userInput);
 
 document.getElementById("resultText").innerText = result;
 
+
+const functionOne = () => {
+    
+}
+
+function functionTwo() {
+
+    return
+}
+
     
