@@ -16,4 +16,10 @@ const personSales = (obj)=> {
 
 }
 
+const list = Object.keys(sales)
+
 console.log(`total sales is ${personSales(sales)} alright!!! aja aja `)
+
+
+
+
